@@ -6,3 +6,5 @@ Problem solving in a team setting
 Managing roles within a group
 managing deadlines
 how to handle merge requests using git
+Creating robust JUnit tests routines for software.
+Software testing practices.
